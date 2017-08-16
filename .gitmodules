@@ -1,0 +1,6 @@
+[submodule "travel-request-service"]
+	path = travel-request-service
+	url = https://github.com/swarajroy/travel-request-service.git
+[submodule "approval-service"]
+	path = approval-service
+	url = https://github.com/swarajroy/approval-service.git
